@@ -27,5 +27,5 @@ Welcome to nano-dank! The text editor for all memers who are also programmers. T
 # Features
   nano-dank is almost the same as nano, except when you try to backspace or delete memz will appear, and more. The full feature list is below.
   Features:
-  ..* Backspace/Delete create memz
-  ..* Yes, No and All have been "updated".
+  * Backspace/Delete create memz
+  * Yes, No and All have been "updated".
