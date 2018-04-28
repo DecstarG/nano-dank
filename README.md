@@ -12,6 +12,12 @@ Welcome to nano-dank! The text editor for all memers who are also programmers. T
  $ sudo apt-get upgrade
  $ sudo git clone https://github.com/DecstarG/nano-dank
  ```
+ ### IMPORTANT NOTE:
+ Unzip the larger files inside the folder with:
+ ```$ cd ~/your/directory/to/nano-dank
+ $ unzip "lib-(UNZIP)" -d ~/your/directory/to/nano-dank
+ $ unzip "doc-(UNZIP)" -d ~/your/directory/to/nano-dank
+ ```
  ## To compile nano-dank from source:
  If you already have nano installed type `sudo apt-get remove nano` first.
 ```$ cd ~/your/directory/to/nano-dank
