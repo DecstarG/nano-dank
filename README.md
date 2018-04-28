@@ -5,14 +5,14 @@ Welcome to nano-dank! The text editor for all memers who are also programmers. T
  $ sudo apt-get source nano
  ```
  (In the directory of your choice) Or you can directly download it from https://github.com/dtrebbien/nano .
-#To download nano-dank through the command-line (Ubuntu):
+## To download nano-dank through the command-line (Ubuntu):
 ```$ cd ~/Directory/to/download/to
  $ sudo apt-get build-dep nano
  $ sudo apt-get update
  $ sudo apt-get upgrade
  $ sudo git clone https://github.com/DecstarG/nano-dank
  ```
- #To compile nano-dank from source:
+ ## To compile nano-dank from source:
  If you already have nano installed type `sudo apt-get remove nano` first.
 ```$ cd ~/your/directory/to/nano-dank
  $ ./configure
@@ -20,7 +20,7 @@ Welcome to nano-dank! The text editor for all memers who are also programmers. T
  $ sudo make install
  ```
  When you wish to use nano-dank simply type `nano` in the command-line and it will run.
- #To uninstall:
+ ## To uninstall:
  ```$ cd ~/your/directory/to/nano-dank
   $ sudo make uninstall
   ```
